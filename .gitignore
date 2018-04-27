@@ -1,0 +1,31 @@
+### FRONTEND ###
+node_modules/
+npm-debug.log
+.DS_Store
+yarn.lock
+node/
+package-lock.json
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+lib/
+
+### NetBeans ###
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
